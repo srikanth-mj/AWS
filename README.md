@@ -55,5 +55,3 @@
 54. Lambda counts a request each time it starts executing in response to an event notification trigger, such as from Amazon Simple Notification Service (SNS) or Amazon EventBridge, or an invoke call, such as from Amazon API Gateway, or via the AWS SDK, including test invokes from the AWS Console.
 55. You are charged based on the number of requests for your functions and the duration it takes for your code to execute.
 56. You can run your Lambda functions on processors built on either x86 or Arm architectures. Arm delivers up to 34% better price performance compared to functions running on x86 processors.
-57. 
-58. 
